@@ -4,7 +4,7 @@
         <TargetFrameworks>netcoreapp3.1;net6.0;net7.0</TargetFrameworks>
         <Nullable>enable</Nullable>
         <IsPackable>false</IsPackable>
-        <RootNamespace>gfs.YamlDotNet.YamlPath</RootNamespace>
+        <RootNamespace>gfs.YamlDotNet.YamlPath.Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

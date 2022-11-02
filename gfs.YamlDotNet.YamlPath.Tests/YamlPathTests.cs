@@ -3,9 +3,8 @@ using System.IO;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using YamlDotNet.RepresentationModel;
-using gfs.YamlDotNet.YamlPath;
 
-namespace YamlDotNet.Test.YamlPath
+namespace gfs.YamlDotNet.YamlPath.Tests
 {
     [TestClass]
     public class YamlPathTests
