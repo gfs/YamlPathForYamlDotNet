@@ -6,7 +6,7 @@
     <PackageLicenseUrl>https://github.com/gfs/YamlPathForYamlDotNet/blob/main/LICENSE</PackageLicenseUrl>
     <Description>Adds a Query extension method to YamlNode objects to perform YamlPath queries.</Description>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <Copyright>Copyright (c) Gabe Stocco, original implementation (c) Microsoft Corporation</Copyright>
+    <Copyright>Copyright (c) Gabe Stocco</Copyright>
     <Configurations>Debug;Release</Configurations>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <LangVersion>8.0</LangVersion>
