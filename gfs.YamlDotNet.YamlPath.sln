@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gfs.YamlDotNet.YamlPath", "gfs.YamlDotNet.YamlPath\gfs.YamlDotNet.YamlPath.csproj", "{71F558B3-6294-4E85-A905-828F5918B30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gfs.YamlDotNet.YamlPath.Tests", "gfs.YamlDotNet.YamlPath.Tests\gfs.YamlDotNet.YamlPath.Tests.csproj", "{11926B89-9A31-44EF-8D1E-37B41AC8884E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F558B3-6294-4E85-A905-828F5918B30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F558B3-6294-4E85-A905-828F5918B30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F558B3-6294-4E85-A905-828F5918B30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F558B3-6294-4E85-A905-828F5918B30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11926B89-9A31-44EF-8D1E-37B41AC8884E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11926B89-9A31-44EF-8D1E-37B41AC8884E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11926B89-9A31-44EF-8D1E-37B41AC8884E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11926B89-9A31-44EF-8D1E-37B41AC8884E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
