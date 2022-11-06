@@ -66,7 +66,7 @@ Not supported:
 [Collectors](https://github.com/wwkimball/yamlpath/wiki/Segment:-Collectors)
 
 ## Origins
-Originally implemented this as a 2022 Microsoft Hackathon Project to add YamlPath support to [Application Inspector](https://github.com/microsoft/ApplicationInspector/) queries. PR with [Original Implementation](https://github.com/microsoft/ApplicationInspector/pull/509). 
+Originally a 2022 Microsoft Hackathon Project to add YamlPath support to [Application Inspector](https://github.com/microsoft/ApplicationInspector/) queries. PR with [Original Implementation](https://github.com/microsoft/ApplicationInspector/pull/509). 
 
 This repository extends and improves that implementation and publishes it as a consumable NuGet package.  This repository and its NuGet packages are not supported or maintained by Microsoft Corporation.
 
