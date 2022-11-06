@@ -4,7 +4,7 @@
     <PackageProjectUrl>https://github.com/gfs/YamlPathForYamlDotNet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/gfs/YamlPathForYamlDotNet</RepositoryUrl>
     <Description>Adds a Query extension method to YamlNode objects to perform YamlPath queries.</Description>
-    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Copyright>Copyright (c) Gabe Stocco</Copyright>
     <Configurations>Debug;Release</Configurations>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
