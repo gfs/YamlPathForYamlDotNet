@@ -3,7 +3,6 @@
     <TargetFrameworks>netstandard2.0;netstandard2.1;net60;net70</TargetFrameworks>
     <PackageProjectUrl>https://github.com/gfs/YamlPathForYamlDotNet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/gfs/YamlPathForYamlDotNet</RepositoryUrl>
-    <PackageLicenseUrl>https://github.com/gfs/YamlPathForYamlDotNet/blob/main/LICENSE</PackageLicenseUrl>
     <Description>Adds a Query extension method to YamlNode objects to perform YamlPath queries.</Description>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <Copyright>Copyright (c) Gabe Stocco</Copyright>
