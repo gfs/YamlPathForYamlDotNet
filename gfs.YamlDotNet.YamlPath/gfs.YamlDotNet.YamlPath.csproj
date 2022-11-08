@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <PackageId>gfs.YamlDotNet.YamlPath</PackageId>
+    <PackageId>YamlDotNet.YamlPath</PackageId>
     <TargetFrameworks>netstandard2.0;netstandard2.1;net60;net70</TargetFrameworks>
     <PackageProjectUrl>https://github.com/gfs/YamlPathForYamlDotNet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/gfs/YamlPathForYamlDotNet</RepositoryUrl>
