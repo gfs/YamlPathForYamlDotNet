@@ -1,4 +1,5 @@
 # YamlPath Extensions for YamlDotNet
+[![nuget](https://img.shields.io/nuget/v/gstocco.YamlDotNet.YamlPath)](https://www.nuget.org/packages/gstocco.YamlDotNet.YamlPath)
 This project adds support for YamlPath queries on YamlDotNet's `YamlNode` objects as a `Query` extension method.
 
 ## Usage
