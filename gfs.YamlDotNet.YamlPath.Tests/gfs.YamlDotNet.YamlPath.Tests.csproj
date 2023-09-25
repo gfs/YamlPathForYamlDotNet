@@ -12,7 +12,7 @@
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.*" />
         <PackageReference Include="MSTest.TestFramework" Version="3.1.*" />
         <PackageReference Include="MSTest.TestAdapter" Version="3.1.*" />
-        <PackageReference Include="YamlDotNet" Version="13.1.*" />
+        <PackageReference Include="YamlDotNet" Version="13.4.*" />
     </ItemGroup>
 
     <ItemGroup>
